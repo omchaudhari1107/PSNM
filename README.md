@@ -1,5 +1,5 @@
 # PSNM-Practical
 |Practical-No.   |Aim                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
-|1|Implement Bisection Method           |tick|
+|1|Implement Bisection Method           |- [x]|
 
