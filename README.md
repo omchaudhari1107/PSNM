@@ -5,9 +5,9 @@
 |2|Implement False Method                 |:heavy_check_mark:|
 |3|Implement Secant Method                |:heavy_check_mark:|
 |4|Implement Newton Raphson Method        |:heavy_check_mark:|
-|5|Implement Trapezoidal Method           |
-|6|Implement Simpson's 1/3rd Method       |
-|7|Implement Simpson's 3/8th Method       |
+|5|Implement Trapezoidal Method           |:heavy_check_mark:|
+|6|Implement Simpson's 1/3rd Method       |:heavy_check_mark:|
+|7|Implement Simpson's 3/8th Method       |:heavy_check_mark:|
 |8|Implement Gauss Elimination Method     |
 |9|Implement Gauss Seidal Method          |
 |10|Implement Newton's Forward interpolation|
